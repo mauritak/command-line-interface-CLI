@@ -8,6 +8,7 @@ npm install -g @angular/cli@12.2.16 // versao especifica 12.2.16
 
 
 ng generate component <nomeComponente>
+
 ng serve –-open
 
 ### | json server
