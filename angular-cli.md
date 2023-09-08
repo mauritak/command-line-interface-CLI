@@ -16,7 +16,7 @@ ng generate component <nomeComponente>
 
 ng serve –-open
 
-### | json server
+### | json server (https://www.npmjs.com/package/json-server#getting-started)
 npm install -g json-server
 
 json-server --watch "C:\Users\Mauricio Takabayashi\Documents\igti-bootcamp-frontend-angular\backend.json"
