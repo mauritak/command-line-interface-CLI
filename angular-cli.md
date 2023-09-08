@@ -1,6 +1,6 @@
 # angular-cli (comandos angular)
 
-### | Conferir a versao do angular instalado
+### | conferir a versao do angular instalado
 ng -v ou ng version
 
 ![image](https://github.com/mauritak/command-line-interface-CLI/assets/8314016/fca7fef0-7780-4512-9b8c-3cc9db759eb2)
