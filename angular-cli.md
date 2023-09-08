@@ -1,5 +1,7 @@
 # angular-cli (comandos angular)
 
+### | Conferir a versao do angular instalado
+ng -v ou ng version
 
 ### | instalar o angular a partir do npm
 npm install -g @angular/cli // versao mais recente (latest)
