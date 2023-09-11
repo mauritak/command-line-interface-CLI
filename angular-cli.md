@@ -16,6 +16,7 @@ ng new (nome_do_app)
 
 ### | cria um novo componente angular
 ng generate component <nomeComponente> // ex: ng generate component modal
+
 ![image](https://github.com/mauritak/command-line-interface-CLI/assets/8314016/f65b5545-36b3-46ef-9393-66152c1749d7)
 
 
